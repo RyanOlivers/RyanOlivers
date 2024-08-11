@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Ryan Albuquerque! ;)
+## Oi! Eu sou o Ryan! ;)
 
  <div>
    <a href="https://github.com/RyanOlivers">
@@ -18,4 +18,5 @@
 <div> 
   <a href="https://www.instagram.com/adwward/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-albuquerque-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:ryanalbuquerquedeoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
